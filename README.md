@@ -8,7 +8,7 @@ PLEASE CHECKOUT THE FILE: example.ino to see a basic usage of the library...
 ####Steps:
 1. Import the library with the line:
 
-	#include "alphanumeric.h"
+	include "alphanumeric.h" //Remeber to use a # at the begining of the line #include "alphanumeric.h"
 
 2. Create an instance of the class:
 
